@@ -1,0 +1,5 @@
+﻿decision_id,decision_month,material_code,month_idx,demand_ton,open_po_ton,expected_unit_cost_per_ton
+RAW_SUGAR_2026-04,2026-04-01,RAW_SUGAR,1,23000.0,0.0,652.0
+RAW_SUGAR_2026-04,2026-04-01,RAW_SUGAR,2,24000.0,5000.0,658.0
+RAW_SUGAR_2026-04,2026-04-01,RAW_SUGAR,3,29000.0,2500.0,669.0
+RAW_SUGAR_2026-04,2026-04-01,RAW_SUGAR,4,28000.0,0.0,676.0

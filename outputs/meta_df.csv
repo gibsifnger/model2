@@ -1,0 +1,2 @@
+﻿external_mode,model_mode,prediction_combine_mode,historical_rows,latest_decision_month,built_external_csv,save_artifacts,use_saved_artifacts
+csv,fresh_fit_from_historical_panel,rule_floor,37,2026-04-01,,0,0
